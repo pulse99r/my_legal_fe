@@ -1,0 +1,11 @@
+.home{
+  text-align: center;
+  background-color: azure;
+  border: 3px rgb(174, 169, 169) solid;
+  border-radius: 8px;
+  /* border-style: double; */
+  color:rgb(162, 166, 170);
+  font-size: 25px;
+  height:90vh;
+  padding: 8px;
+}

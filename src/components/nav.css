@@ -1,0 +1,26 @@
+.nav {
+  align-content: right;
+  justify-content: flex-end;
+  background-color: azure;
+  border: 3px rgb(174, 169, 169) solid;
+  border-radius: 8px;
+  border-style: double;
+  color:rgb(162, 166, 170);
+  display: flex;
+  font-size: 25px;
+  list-style: none;
+  padding: 9px;
+}
+.nav-item{
+  font-size: 15px;
+  border: 1px solid silver;
+  border-radius: 5px;
+  height: 18px;
+  margin: 0 7px;
+  padding: 0 25px;
+}
+.nav .nav-item:hover{
+  background-color: rgb(171, 221, 204);
+  border:1px blue solid;
+  color: black;
+}
